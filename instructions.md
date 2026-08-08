@@ -27,4 +27,4 @@ This script creates a new user on a Linux system using shell scripting.
 ## What it does
 - Creates a new user with a home directory
 - Sets the default shell to bash
-- Sets a default password
+- Sets a default password 
