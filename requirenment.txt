@@ -1,1 +1,7 @@
 Script should not be executed with local user if it use local user it should be exit with status 1 or error title
+The Script should be genereate password automatically
+The Script will take 1st argument as a user and the rest will be treated as comment
+The Script should be display the following 
+    Username: 
+    Password:
+    Hostname:
