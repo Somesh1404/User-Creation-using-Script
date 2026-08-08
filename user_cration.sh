@@ -60,4 +60,4 @@ echo
 echo "Username: $USER_NAME"
 echo 
 echo "Passsword: $PASSWORD"
-64 lines yanked                 
+64 lines yanked
