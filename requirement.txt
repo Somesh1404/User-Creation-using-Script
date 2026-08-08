@@ -4,4 +4,5 @@ The Script will take 1st argument as a user and the rest will be treated as comm
 The Script should be display the following 
     Username: 
     Password:
-    Hostname:
+    Hostname:   
+    
