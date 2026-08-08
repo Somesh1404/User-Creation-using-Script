@@ -10,8 +10,8 @@ This script creates a new user on a Linux system using shell scripting.
 
 1. Clone this repository:
 ```bash
-   git clone https://github.com/yourusername/yourrepo.git
-   cd yourrepo
+   git https://github.com/Somesh1404/User-Creation-using-Script
+   cd User-Creation-using-Script
 ```
 
 2. Give execute permission to the script:
